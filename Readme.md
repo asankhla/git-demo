@@ -13,8 +13,6 @@ You are downloading the latest (2.18.0) 64-bit version of Git for Windows. This 
 
 If your download hasn't started, click here to download manually.
 
-Other Git for Windows downloads
-Git for Windows Setup
 32-bit Git for Windows Setup.
 
 64-bit Git for Windows Setup.
